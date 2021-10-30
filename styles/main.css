@@ -12,6 +12,7 @@ body {
     font-weight: 400;
     letter-spacing: 1.1em;
     line-height: 1.3em;
+    box-sizing: border-box;
 }
 
 
